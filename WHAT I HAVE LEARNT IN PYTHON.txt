@@ -1,0 +1,46 @@
+gedit : 
+Terminal : 
+mkdir :
+cd : 
+cd ~/ desktop:
+print:
+syntax: 
+"#" in python
++   -   *   /   <   >   <=   >=
+variable 
+" _"   E.g. Space_in_the_car
+floating number:
+formatting string : 
+    %s
+    %d
+    %r
+\   Escape Sequences:
+    \n  => back-slash n = new line
+    \\   => double back-slash  = print "\"
+    \ "  => to tell Python if the " is in the string =>  e.g.  " I am 6' 2\" tall."    
+    """  => to cite strings over a lot lines.
+raw_input ()  => raw_input ( "NAME? " )
+pydoc: 
+import : 
+argv :  argument variables
+open:  e.g. txt = open(filename)
+read :  e.g. txt. read()
+close: 
+readline : 
+truncate: 
+write : 
+exists :     from os.path import exists
+cat:  concatenate
+function: 
+    def *** (xxx, yyy) : 
+rewind: 
+seek:    ??????
+return: 
+class: 
+    field:
+    model :
+    
+
+
+
+
